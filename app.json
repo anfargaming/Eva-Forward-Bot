@@ -30,7 +30,7 @@
         },
         "FILE_CAPTION": {
             "description": "your custom file caption",
-            "value": "{file_name}\n\n🔘 size - {file_size}\n\n╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗\n♻️ 𝙅𝙊𝙄𝙉 :- @Mr_Movies_Main \n♻️ 𝙅𝙊𝙄𝙉 :- @mknmovies \n╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝ ",
+            "value": "{file_name}\n\n🔘 size - {file_size}\n\n",
             "required": false 
         },
         "LOG_CHANNEL": {
@@ -46,7 +46,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "eco"
+            "size": "free"
         }
     }
 }
